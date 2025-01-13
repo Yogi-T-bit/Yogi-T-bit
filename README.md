@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center"> I'm Yogev, 💻 Junior Software Engineer Student from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b> Israel.</b> <br> Take a peek into my journey! 🚀 </h3></p>
+  <h3 align="center"> I'm Yogev, 💻 Junior Software Engineer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/il.png" width="20"/> <b> Israel.</b> <br> Take a peek into my journey! 🚀 </h3></p>
 <br>
 
 <div align="center">
